@@ -10,4 +10,10 @@ Desde que tengo memoria siempre me dedicaba a crear contenido, ya sea imagenes o
 
 Creo tener buen ojo, y a dia de hoy diseñe varias paginas web que me gustan mucho. Planeo ganarme la vida de esa manera, o quien sabe a donde me lleve la vida, vivir de algo que tenga que ver con el diseño. Ojo, capaz me convierto en jugador profesional o en Gustavo Cerati 2.
 
+Aprovecho hacer publicidad para comentar que tambien dedico mi dia a dia a mi emprendimiento de impresiones 3D (@Drakkar3d_). En el imprimo diseños a pedido de otras personas o hechos por mi mismo. Esto es algo que a lo que no le habia dedicado mi tiempo a investigar, pero cuando lo hice, creo que abrio un nuevo camino en mi vida.
+
+Les dejo una foto mia :)
+
+![Foto de Lean](./assets/leandezu.jpeg)
+
 
