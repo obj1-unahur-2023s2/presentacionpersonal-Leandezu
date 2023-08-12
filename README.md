@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-## Leandro Dezuliani
+# Leandro Dezuliani
 
 Buenas, mi nombre es Leandro Dezuliani y este es mi cuarto cuatrimestre en la carrera "Tecnicatura en programacion". Soy amante del futbol, la musica y los jueguitos de la compu, y aunque pasen los años, sueño con ser jugador profesional o ser un gran musico (si, soy un soñador).
 
